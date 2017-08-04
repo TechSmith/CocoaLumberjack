@@ -1277,7 +1277,7 @@
 						CreatedOnToolsVersion = 6.0;
 					};
 					DCB3185014EB418E001CFBEE = {
-						LastSwiftMigration = 0820;
+						LastSwiftMigration = 0900;
 					};
 				};
 			};
